@@ -1,6 +1,7 @@
 garbage/
 docs/
 mojo/
+.local
 *.src
 *.tkn
 *.tko
