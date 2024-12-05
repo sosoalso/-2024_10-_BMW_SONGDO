@@ -1,0 +1,10 @@
+{
+  "id": "bwm_lounge_blu",
+  "name": "bwm_lounge_blu",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}

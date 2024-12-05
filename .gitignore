@@ -1,0 +1,8 @@
+garbage/
+docs/
+mojo/
+*.src
+*.tkn
+*.tko
+*.tp5
+*.audioarchitect

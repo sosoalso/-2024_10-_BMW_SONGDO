@@ -1,0 +1,10 @@
+{
+  "id": "bmw_forum_devices",
+  "name": "bmw_forum_devices",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}
